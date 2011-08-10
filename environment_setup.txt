@@ -1,0 +1,7 @@
+Download (open source?) flex JDK from adobe.
+
+Make sure the mxmlc compiler is on the path.
+
+Also see:
+ * http://blogs.warwick.ac.uk/ahazelden/entry/as3_flash_dev/
+ 
