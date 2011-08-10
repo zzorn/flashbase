@@ -1,4 +1,4 @@
-Download (open source?) flex JDK from adobe.
+Download (open source, adobe version of) flex JDK from adobe.
 
 Make sure the mxmlc compiler is on the path.
 
